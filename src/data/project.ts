@@ -10,7 +10,7 @@ export const project = {
   accent: "#2D6A4F", // muted forest green — the ONE accent color
   demoUrl: "https://demo.terrapulse.dev",
   prototypeUrl: "https://app.terrapulse.dev",
-  repoUrl: "https://github.com/studio-meridian/terrapulse",
+  repoUrl: "https://github.com/Virajj1304/TeamPort",
 };
 
 export const changelog = [
